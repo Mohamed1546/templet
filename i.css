@@ -105,10 +105,10 @@ body {
 }
 @media (max-width:850px){
   #c1{
-    height: 115vh;
+    height: 100vh;
   }
   #c0{
-    height: 140vh;
+    height: 130vh;
     width: 100%;
   }
   #h , #hh1{
@@ -120,8 +120,8 @@ body {
 
   h1{
     scale: .6;
-    width: 150%;
-    margin-left: -100px;
+    width: 160%;
+    margin-left: -90px;
   }
   #i{
     margin-left: 15px;
@@ -139,7 +139,7 @@ body {
     height: 120vh;
   }
   #c0{
-    height: 160vh;
+    height: 140vh;
     width: 100%;
   }
   #h , #hh1 {
