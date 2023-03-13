@@ -65,7 +65,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #d67a02;
+  background-color: #f58f0a;
   background-repeat: no-repeat;
   text-align: center;
 }
@@ -105,16 +105,16 @@ body {
 }
 @media (max-width:850px){
   #c1{
-    height: 130vh;
+    height: 115vh;
   }
   #c0{
-    height: 160vh;
+    height: 140vh;
     width: 100%;
   }
   #h , #hh1{
     scale: .7;
     margin-top: -20px;
-    margin-left: -80px;
+    margin-left: -70px;
     width: 150%;
   }
 
@@ -127,6 +127,9 @@ body {
     margin-left: 15px;
   }
   h6 {
+    scale: .7;
+  }
+  #m1{
     scale: .7;
   }
 
