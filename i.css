@@ -82,6 +82,8 @@ body {
   width:90%;
   background-color: white;
   border: solid 10px black;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 [tabindex="-1"]:focus {
   outline: 0 !important;
@@ -130,11 +132,7 @@ body {
 
 }
 @media (min-width:750px){
-  #c1{
-    height: 120vh;
-  }
   #c0{
-    height: 140vh;
     width: 100%;
   }
   #h , #hh1 {
